@@ -8,6 +8,7 @@ This program closes the SainSmart Relay Switch as soon as the Raspberry Pi boots
 <img src="pinout_relay.png" width="300">
 
 Example setup:
+
 <img src="relay_example.png" width="300">
 
 If you are using a GPIO different than 23, update the line in the program accordingly:
