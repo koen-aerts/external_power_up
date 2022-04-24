@@ -1,0 +1,8 @@
+[Unit]
+Description=External Power Control
+
+[Service]
+ExecStart=/usr/local/bin/external_power_up.py
+
+[Install]
+WantedBy=sysinit.target
